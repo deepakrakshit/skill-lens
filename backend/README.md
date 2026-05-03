@@ -8,6 +8,7 @@ FastAPI service that powers real GitHub skill analysis, resume text extraction, 
 - Analyzes the latest 30 commits per repository
 - Derives skills from repository metadata and commit messages
 - Sends GitHub context into the LLM for resume skill extraction
+- Supports resume file upload and text extraction via the API
 - Returns only real, API-driven analysis data
 
 ## Run locally

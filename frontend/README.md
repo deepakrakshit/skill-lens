@@ -5,6 +5,7 @@ This is the SkillLens frontend: a Next.js dashboard for real GitHub profile anal
 - The homepage sends a GitHub username to the dashboard.
 - The dashboard renders only real backend data.
 - The analysis view includes skill evidence, repository insights, and commit history.
+- The upload page lets users send resumes to the backend for real text extraction.
 - The build now wraps search-param usage in Suspense so the dashboard prerenders correctly.
 
 ## Getting Started
